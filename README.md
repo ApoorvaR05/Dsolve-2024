@@ -7,9 +7,9 @@
 Name : Keen Coders 
 
 # Team Member
-Member 1 Github Link
+Member 1 Apoorva R
 https://github.com/ApoorvaR05
-MEmber 2 Github Link
+MEmber 2 Angel Pauly
 https://github.com/angelpauly
 ## Idea
 Breif Idea in two three sentences 
