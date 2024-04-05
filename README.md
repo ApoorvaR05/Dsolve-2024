@@ -4,18 +4,20 @@
 
 
 ## Team Name
-Name  
+Name : Keen Coders 
 
 # Team Member
 Member 1 Github Link
-
+https://github.com/ApoorvaR05
 MEmber 2 Github Link
-
+https://github.com/angelpauly
 ## Idea
 Breif Idea in two three sentences 
+Creating a platform weere people with similar interests can connect, learn and work together.
 
 ## Features 
-1. 
+1. Connects people with similar interests
+2. Providing a space to learn and work together
 
 ## Link to product walkthrough
 [link to video](Link Here)
